@@ -1,4 +1,4 @@
 version: 1.2
 notebooks:
-    path: /eq.ipynb
+  - path: /eq.ipynb
     publish: true
